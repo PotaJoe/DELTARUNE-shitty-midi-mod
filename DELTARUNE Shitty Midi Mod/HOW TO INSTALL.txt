@@ -1,0 +1,3 @@
+HOW TO INSTALL:
+
+Replace the "mus" folder in your SURVEY_PROGRAM folder with the one in this folder and it should be all good! (Remember to save a copy of the original mus folder)
